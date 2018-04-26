@@ -1,6 +1,6 @@
 {
   "name": "@pisano/enzyme",
-  "version": "3.3.0-pisano.fix.3",
+  "version": "3.3.0-pisano.public.1",
   "description": "JavaScript Testing utilities for React",
   "homepage": "http://airbnb.io/enzyme/",
   "main": "build",
